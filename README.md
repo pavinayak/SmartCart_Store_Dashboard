@@ -6,7 +6,7 @@
   To contribute to the success of a business by utilizing data analysis techniques, specially focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
 #TOOLS AND TECHNOLOGIES:
-  Excel: Data cleaninG and manipulation.
+  Excel: Data cleaning and manipulation.
   Power BI: Visualization, and interactive dashboard creation.
 
 #KEY FEATURES:
