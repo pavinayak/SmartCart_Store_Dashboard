@@ -1,4 +1,4 @@
-# Super_Store_Dashboard
+# SmartCart_Store_Dashboard
 #OVERVIEW:
   The Super Store Sales Dashboard is an interactive data visualization project developed using Power BI and EXCEL for data cleaning. This project analyzes key business metrics such as sales, profit, and quantity   across various regions, categories, and subcategories, providing actionable insights to support strategic decision-making.
 
