@@ -1,20 +1,15 @@
 # Super_Store_Dashboard
-#OVERVIEW
+#OVERVIEW:
   The Super Store Sales Dashboard is an interactive data visualization project developed using Power BI and EXCEL for data cleaning. This project analyzes key business metrics such as sales, profit, and quantity   across various regions, categories, and subcategories, providing actionable insights to support strategic decision-making.
 
-#OBJECTIVE
+#OBJECTIVE:
   To contribute to the success of a business by utilizing data analysis techniques, specially focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
-#DATASET
-  Size: Over 5,000 records
-  Features: Includes sales, profit, quantity, category, subcategory, region, segment, and payment mode.
-  Source: Simulated or publicly available sales data representing a retail superstore.
-
-#TOOLS AND TECHNOLOGIES
+#TOOLS AND TECHNOLOGIES:
   Excel: Data cleaninG and manipulation.
   Power BI: Visualization, and interactive dashboard creation.
 
-#KEY FEATURES
+#KEY FEATURES:
   Sales Analysis:
   Visualized sales by category, subcategory, and region.
   Identified top-performing categories like Technology contributing 40% of overall sales.
@@ -29,7 +24,7 @@
   Interactive Features:
   Enabled drill-down analysis with dynamic filters for better data exploration.
 
-#INSIGHTS AND IMPACT
+#INSIGHTS AND IMPACT:
   Total Revenue: $1.57M
   Top Categories: Technology, Office Supplies, and Furniture.
   Top States: California and New York generated the highest sales.
